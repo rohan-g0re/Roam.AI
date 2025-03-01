@@ -5,7 +5,7 @@ def get_claude_recommendations(input_string, hours):
         response = requests.post(
             'https://api.anthropic.com/v1/messages',
             headers={
-                'x-api-key': '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',
+                'x-api-key': '',
                 'Content-Type': 'application/json',
                 'anthropic-version': '2023-06-01',
             },
