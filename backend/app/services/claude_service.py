@@ -1,11 +1,12 @@
 import requests
+import os
 
 def get_claude_recommendations(input_string, hours):
     try:
         response = requests.post(
             'https://api.anthropic.com/v1/messages',
             headers={
-                
+                'x-api-key': os.environ['ANTHROPIC_API_KEY'],
                 'Content-Type': 'application/json',
                 'anthropic-version': '2023-06-01',
             },
