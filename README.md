@@ -29,7 +29,9 @@
 - Flask
 - SQLAlchemy
 - Claude AI API
-- PostgreSQL
+- SQLlite
+
+### AWS hosting : public URL: 
 
 ## 🚀 Installation
 
