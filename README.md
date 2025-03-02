@@ -1,8 +1,7 @@
 # 🌍 ROAM.AI - Your Intelligent Travel Companion
 
-<p align="center">
-  <img src="[/public/Logo_Roamai.png](https://drive.google.com/file/d/1E9nW0WgJcuPI_wAtOS2FycVjfCTump6P/view?usp=sharing)" alt="ROAM.AI Logo" width="200"/>
-</p>
+![Picsart_25-03-02_11-32-32-041](https://github.com/user-attachments/assets/18b5fa9f-34e7-4207-95e5-e9cbfabcb1c6)
+
 
 <p align="center">
   <strong>Discover the world through AI-powered personalized travel recommendations</strong>
