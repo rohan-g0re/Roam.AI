@@ -7,6 +7,9 @@
   <strong>Discover the world through AI-powered personalized travel recommendations</strong>
 </p>
 
+
+## http://18.188.88.124:3000/
+
 ## ✨ Features
 
 - 🗺️ **Interactive Map Interface** - Explore locations with an intuitive Google Maps integration
