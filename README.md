@@ -74,7 +74,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All our amazing contributors
 
 ---
+### The amazing team behind this project:
 
+Raunak Choudhary
+raunak.choudhary@nyu.edu
+
+Sahil Sarnaik
+ssarnaik48@gmail.com
+
+Rohan Gore
+rmg9725@nyu.edu
+
+Yashavika Singh
+ys6668@nyu.edu
+
+-----
 <p align="center">
   Made with <i>GRIT</i> by the ROAM.AI Team
 </p>
