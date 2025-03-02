@@ -71,6 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google Maps Platform
 - Anthropic's Claude AI
 - Material-UI Team
+- Adobe Illustrator Pro
 - All our amazing contributors
 
 ---
