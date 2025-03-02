@@ -93,6 +93,3 @@ Yashavika Singh
 ys6668@nyu.edu
 
 -----
-<p align="center">
-  Made with <i>GRIT</i> by the ROAM.AI Team
-</p>
