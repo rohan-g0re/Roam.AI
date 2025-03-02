@@ -1,7 +1,7 @@
 # 🌍 ROAM.AI - Your Intelligent Travel Companion
 
 <p align="center">
-  <img src="/public/Logo_Roamai.png" alt="ROAM.AI Logo" width="200"/>
+  <img src="[/public/Logo_Roamai.png](https://drive.google.com/file/d/1E9nW0WgJcuPI_wAtOS2FycVjfCTump6P/view?usp=sharing)" alt="ROAM.AI Logo" width="200"/>
 </p>
 
 <p align="center">
