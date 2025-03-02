@@ -77,15 +77,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### The amazing team behind this project:
 
 Raunak Choudhary
+
 raunak.choudhary@nyu.edu
 
 Sahil Sarnaik
+
 ssarnaik48@gmail.com
 
 Rohan Gore
+
 rmg9725@nyu.edu
 
 Yashavika Singh
+
 ys6668@nyu.edu
 
 -----
