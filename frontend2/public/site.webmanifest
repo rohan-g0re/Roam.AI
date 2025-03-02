@@ -1,0 +1,19 @@
+{
+  "name": "ROAM.AI",
+  "short_name": "ROAM.AI",
+  "icons": [
+    {
+      "src": "/Logo_Roamai.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Logo_Roamai.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#03256c",
+  "background_color": "#03256c",
+  "display": "standalone"
+}

@@ -1,0 +1,25 @@
+{
+  "short_name": "ROAM.AI",
+  "name": "ROAM.AI - AI Travel Companion",
+  "icons": [
+    {
+      "src": "Logo_Roamai.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "Logo_Roamai.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Logo_Roamai.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#03256c",
+  "background_color": "#03256c"
+}
