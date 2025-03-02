@@ -7,15 +7,6 @@
   <strong>Discover the world through AI-powered personalized travel recommendations</strong>
 </p>
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
-</p>
-
 ## ✨ Features
 
 - 🗺️ **Interactive Map Interface** - Explore locations with an intuitive Google Maps integration
