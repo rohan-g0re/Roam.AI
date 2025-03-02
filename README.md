@@ -82,7 +82,7 @@ raunak.choudhary@nyu.edu
 
 Sahil Sarnaik
 
-ssarnaik48@gmail.com
+ss19100@nyu.edu
 
 Rohan Gore
 
