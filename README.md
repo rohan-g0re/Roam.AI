@@ -1,5 +1,5 @@
 # 🌍 ROAM.AI - Your Intelligent Travel Companion
-## http://18.188.88.124:3000/
+## https://roam-dfqn6er44-ys6668-nyuedus-projects.vercel.app/
 <p align="center">
   <img src="https://github.com/user-attachments/assets/18b5fa9f-34e7-4207-95e5-e9cbfabcb1c6" width="300">
 </p>
